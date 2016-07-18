@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Achivements/Achievements/Objectives/Objective.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bee_HMMS.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/Star.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/wordCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Achivements/Achievements/Objectives/Objective.cs" Line="123" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
